@@ -67,4 +67,4 @@ python ego_test.py
 
 ## 👤 Author
 
-**Steve Parakal** | [GitHub](https://github.com/steveparakal)
+**Steve George Parakal** | [GitHub](https://github.com/steveparakal)
